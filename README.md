@@ -25,3 +25,5 @@ pip install requests
 ```bash
 python main.py
 ```
+## 📸 screenshot
+![Quizzler Screenshot](screenshot.png)
